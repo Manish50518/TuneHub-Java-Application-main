@@ -24,13 +24,8 @@ Database: MySQL
 Payment Gateway Integration: Razorpay Payment Gateway
 
 # Output
-![TuneHub home page](https://github.com/Manish50518/TuneHub-Java-Application-main/blob/main/assets/IMG_7616.JPG?raw=true)
 
-![TuneHub-2](https://github.com/Manish50518/TuneHub-Java-Application-main/assets/105223888/4a293a75-b2b0-4200-b68e-aac158e90216)
 
-![TB6](https://github.com/Manish50518/TuneHub-Java-Application-main/assets/105223888/5916b6af-7d92-451b-aac2-fde0321976a4)
-
-![TB5](https://github.com/Manish50518/TuneHub-Java-Application-main/assets/105223888/95647434-adb0-4d75-876d-04c72d3834e8)
 
 <p float="left">
   <img src="https://github.com/Manish50518/TuneHub-Java-Application-main/assets/105223888/ca164274-738b-472f-b904-c265a2a39ceb" alt="Image 1" width="400" />
