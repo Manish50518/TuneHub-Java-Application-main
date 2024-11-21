@@ -29,8 +29,10 @@ Payment Gateway Integration: Razorpay Payment Gateway
 ![tune-hub-pic-1](https://github.com/user-attachments/assets/0a4c4a6b-227c-4299-9636-085070d8e474)
 ![tune-hub-img-2](https://github.com/user-attachments/assets/8edd679b-05c7-4a75-aed5-a1ee8e025e09)
 ![tun-hub-img-3](https://github.com/user-attachments/assets/17eb1355-c0b5-4e32-8de6-71e03f591589)
-![tun-hub-img-4](https://github.com/user-attachments/assets/d54755af-51c1-4590-8768-ac170970a5b1)
-![tun-hub-img-5](https://github.com/user-attachments/assets/825677fd-eae3-4b37-9e99-d896e2f82182)
+![tun-hub-img-4](https://github.com/user-attachments/assets/ae1b72d9-ca56-463a-bee3-c92ee5cee79e)
+
+![tun-hub-img-5](https://github.com/user-attachments/assets/9d31c5a4-aa01-4df4-9219-1278b19da5a5)
+
 
 <p float="left">
   <img src="https://github.com/Manish50518/TuneHub-Java-Application-main/assets/105223888/ca164274-738b-472f-b904-c265a2a39ceb" alt="Image 1" width="400" />
